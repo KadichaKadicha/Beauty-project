@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="649a5563-a622-4d53-9d96-969c5fad32c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../js-intro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-intro/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/CSS/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/CSS/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/CSS/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/CSS/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/font/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/font/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/font/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/font/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/font/fontello.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/Formapng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/Fresh-fruit-pretty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/brand1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/brand2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/brand3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/brand4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/brand5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/caption.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/cute-92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/cuteiphone28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/fashion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/kit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/mac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/img/tmb_170041_9788.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weadding/JS/spirit/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spirit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spirit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spirit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spirit/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1isYQibqIl3TVLS0XTmjHWRRxKL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\WebstormProjects\beauty\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="649a5563-a622-4d53-9d96-969c5fad32c4" name="Default Changelist" comment="" />
+      <created>1602697752218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602697752218</updated>
+      <workItem from="1602697753274" duration="543000" />
+      <workItem from="1602698372908" duration="9909000" />
+      <workItem from="1602922019289" duration="7870000" />
+      <workItem from="1602948015563" duration="49000" />
+      <workItem from="1602948223304" duration="23000" />
+      <workItem from="1603012243837" duration="912000" />
+      <workItem from="1603013983215" duration="779000" />
+      <workItem from="1603297885857" duration="1706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
